@@ -1,0 +1,148 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# mypy
+.mypy_cache/
+
+# pylint
+.pylint.d/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# pytest
+.cache/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Flask instance folder
+instance/
+
+# Flask config
+*.db
+*.sqlite
+
+# virtualenv
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+*.swp
+*.swo
+*.swn
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# JetBrains files
+.idea/
+
+# Project-specific files
+*.bak
+*.swp
+*.swo
+*.swn
+*.log
+
+# npm
+node_modules/
+
+# yarn
+.yarn/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+
+# Bin and obj folders (build output directories)
+bin/
+obj/
+
+# Uncomment if you have tasks that create project's static files
+#wwwroot/
+
+# Visual Studio configuration
+.vsconfig
+
+# Dependency directories (e.g., node_modules for front-end dependencies)
+node_modules/
+
+# User-specific files (Windows)
+*.pdb
+*.cache
+*.log
+
+# Tye and containers
+.tye/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Package directories
+packages/
+node_modules/
+
+# IDE files
+.vsconfig
+.vs2019/
+.vs2022/
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# NUnit test results
+TestResult.xml
